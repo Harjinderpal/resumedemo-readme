@@ -30,7 +30,7 @@ I'm a passionate tech learner currently pursuing B.Tech in AI & ML. I enjoy buil
 | Project | Description | Links |
 |--------|-------------|-------|
 | 📝 **Portfolio Website** | My personal website built with HTML/CSS/JS | [Live](http://127.0.0.1:5500/index.html)|
-| 🛍️ **Amazon Clone**   A frontend clone of the Amazon website built using HTML, CSS, and JavaScript. Responsive layout, product grid, navbar, and cart UI. [LiveDemo](http://127.0.0.1:5500/index.html) |
+| 🛍️ **Amazon Clone** | My first project built with HTML/CSS/JS [LiveDemo](http://127.0.0.1:5500/index.html) |
 
 ---
 
